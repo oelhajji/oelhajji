@@ -40,6 +40,6 @@
     <a href="https://gym.openai.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI Gym" width="40" height="40"/> </a>
     <a href="https://www.3ds.com/products-services/3dexperience-platform/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/3D_Experience_logo.png" alt="3D Experience" width="40" height="40"/> </a>
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/solidworks.png" alt="SolidWorks" width="40" height="40"/> </a>
-    <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://www.open3d.org/images/open3d_logo.png" alt="Open3D" width="40" height="40"/> </a>
+    <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://www.open3d.org/wordpress/wp-content/uploads/2018/09/open3d_logo-e1536865267950-300x259.png" alt="Open3D" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
