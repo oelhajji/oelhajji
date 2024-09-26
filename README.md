@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/omar-el-hajji-2992a1257/"/>
         <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    <a href="https://www.youtube.com/@OEngineer2002/"/>
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>
+    </a>
     <a href="https://www.instagram.com/omar_elhajji/"/>
         <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
