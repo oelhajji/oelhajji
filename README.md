@@ -3,14 +3,14 @@
 <h3 align="center">I'm an AI Robotics Engineer passionate about AI vision. I have experience working in both the medical and industrial domains.</h3>
 
 <div align="center">
-    <a href="YOUR_LINKEDIN_PROFILE">
-        <img src ="https://www.linkedin.com/in/omar-el-hajji-2992a1257/"/>
+    <a href="https://www.linkedin.com/in/omar-el-hajji-2992a1257/"/>
+        <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="YOUR_INSTAGRAM_PROFILE">
-        <img src ="https://www.instagram.com/omar_elhajji/"/>
+    <a href="https://www.instagram.com/omar_elhajji/"/>
+        <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="YOUR_FACEBOOK_PROFILE">
-        <img src="https://www.facebook.com/omar.ilhajji/" alt="Facebook Profile"/>
+    <a href="https://www.facebook.com/omar.ilhajji/"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile"/>
     </a>
 </div>
 
