@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar EL Hajji <img alt="Coding" width="55px" height="45px" src="developer.gif" width="50" height="40"></h1>
 
-<h3 align="center">I'm an AI Robotics Engineer passionate about AI vision. I have experience working in both the medical and industrial domains.</h3>
+<h3 align="center">I'm a Computer vision and Robotics Engineer passionate about AI vision. I have experience working in both the medical and industrial domains.</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/omar-el-hajji-2992a1257/"/>
