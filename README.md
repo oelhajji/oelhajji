@@ -42,8 +42,8 @@
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
     <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*B2T8bycSeIhPFooIwGf8fw.png" alt="onnx" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="40" height="40"/> </a>
-    <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros/ros_logo.png" alt="ros" width="40" height="40"/> </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/> </a>
     <a href="https://www.3ds.com/products-services/3dexperience-platform/" target="_blank" rel="noreferrer"> <img src="https://www.3ds.com/sites/default/files/2021-04/3dexperience-platform-information.jpg" alt="3D Experience" width="40" height="40"/> </a>
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/solidworks.png" alt="SolidWorks" width="40" height="40"/> </a>
     <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://www.open3d.org/wordpress/wp-content/uploads/2018/09/open3d_logo-e1536865267950-300x259.png" alt="Open3D" width="40" height="40"/> </a>
